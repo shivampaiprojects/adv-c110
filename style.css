@@ -1,0 +1,42 @@
+body{
+    font-family: 'texturina', serif;
+    background-color: #ffd700;
+    color: #4b0082;
+}
+body button{
+    width:100%;
+    background-color: #ffd700;
+    color: #bc71f1;
+    border: 3px #4b0082 solid;
+    box-shadow: 5px 5px 18px #4b0082;
+}
+.photo_div{
+    margin-bottom: 50px;
+}
+.photo_div h4{
+    background-color: midnightblue;
+    border-radius: 15px;
+    padding: 5px;
+    box-shadow: 5px 5px 18px ;
+}
+.img{
+    width: 100px;
+    height: 100px;
+}
+.main_div{
+    border: black 5px ridge;
+    padding: 10px;
+    margin-top: 10px;
+}
+.main_div label{
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 18px #4b0082;
+}
+#camera , #result {
+    border: 3px ridge #4b0082;
+    width: 310px;
+    height: 300px;
+    box-shadow: #4b0082 5px 5px 18px;
+}
